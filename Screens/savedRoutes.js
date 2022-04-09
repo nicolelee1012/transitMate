@@ -35,8 +35,11 @@ const coordinates = [
     longitude: -122.4862,
   },
 ];
-const GOOGLE_MAPS_APIKEY = "AIzaSyBV_EvsR_SI9az9aAUM_ch9UU3MswZAqJM"
-const GOOGLE_MAPS_APITKEY_GEOCODING = "AIzaSyA4EvUX1w061o9J8CsYOYFWJWVfPZSSs0s"
+
+const GOOGLE_MAPS_APIKEY = "Replace with your own"
+const GOOGLE_MAPS_APITKEY_GEOCODING = "Replace with your own"
+
+
 
 const SavedRoutes = ({ route, navigation }) => {
     Geocoder.init(GOOGLE_MAPS_APITKEY_GEOCODING)

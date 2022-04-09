@@ -27,8 +27,7 @@ const coordinates = [
     longitude: -122.4053769,
   },
 ];
-const GOOGLE_MAPS_APIKEY = "AIzaSyBV_EvsR_SI9az9aAUM_ch9UU3MswZAqJM";
-const GOOGLE_MAPS_APITKEY_GEOCODING = "AIzaSyA4EvUX1w061o9J8CsYOYFWJWVfPZSSs0s";
+const GOOGLE_MAPS_APIKEY = "replace";
 
 const CheckPoints = ({ navigation }) => {
   const myContext = useContext(AppContext);

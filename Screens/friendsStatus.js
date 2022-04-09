@@ -15,7 +15,7 @@ import Geocoder from "react-native-geocoding";
 
 const width = Dimensions.get("window").width;
 const height = Dimensions.get("window").height;
-const GOOGLE_MAPS_APIKEY = "AIzaSyBV_EvsR_SI9az9aAUM_ch9UU3MswZAqJM";
+const GOOGLE_MAPS_APIKEY = "replace with your own api key";
 const coordinates = [
   {
     latitude: 37.3318456,

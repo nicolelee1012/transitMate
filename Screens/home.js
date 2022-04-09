@@ -21,7 +21,7 @@ import MapView, { PROVIDER_GOOGLE } from "react-native-maps";
 import MapViewDirections from "react-native-maps-directions";
 import { Marker } from "react-native-maps";
 
-const GOOGLE_MAPS_APIKEY = "AIzaSyBV_EvsR_SI9az9aAUM_ch9UU3MswZAqJM";
+const GOOGLE_MAPS_APIKEY = "replace with your own apikey";
 
 const width = Dimensions.get("window").width;
 const height = Dimensions.get("window").height;
