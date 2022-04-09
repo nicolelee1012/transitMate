@@ -39,8 +39,6 @@ const coordinates = [
 const GOOGLE_MAPS_APIKEY = "Replace with your own"
 const GOOGLE_MAPS_APITKEY_GEOCODING = "Replace with your own"
 
-
-
 const SavedRoutes = ({ route, navigation }) => {
     Geocoder.init(GOOGLE_MAPS_APITKEY_GEOCODING)
 
