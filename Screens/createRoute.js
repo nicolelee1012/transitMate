@@ -26,7 +26,7 @@ const coordinates = [
     longitude: -122.4053769,
   },
 ];
-const GOOGLE_MAPS_APIKEY = "AIzaSyBsODdzfnULgD0kcOrsedLKtA4-pbe0Og0"
+const GOOGLE_MAPS_APIKEY = "replacewithyourown"
 
 const CreateRoute = ({ navigation }) => {
   const [destintation, setDestination] = useState("")

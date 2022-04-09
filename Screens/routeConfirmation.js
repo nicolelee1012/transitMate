@@ -119,7 +119,7 @@ const RouteConfirmation = ({ route, navigation }) => {
               fontSize: 16
             }}
           >
-            {(myContext.counter/(myContext.numMarkers + 1))}% Complete
+            {Math.floor(myContext.counter/(myContext.numMarkers + 1))}% Completed
           </Text>
           <MapView
             style={styles.map}
