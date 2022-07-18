@@ -12,3 +12,8 @@ The app was built to satisfy the course goals - creating a rapid prototype with 
 
 # Quick view of the app
 ![transitmate](https://user-images.githubusercontent.com/79027045/179622312-0f6a4738-d19d-4ed3-9691-62e440fae552.gif)
+
+#Takeaways
+
+This was a demanding and difficult project as I had to build it from scratch within three weeks. It required a learning and understanding React Native quickly and learning how to use the Google Maps APIs. I also learned to document and unify most components well in the future. This challenging project helped me learn and grow trememndously and understand React/React Native and mobile development further. 
+
